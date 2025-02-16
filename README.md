@@ -36,7 +36,7 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos, ideias e col
 
 ## 📊 Estatísticas do GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xjoaofelipex&show_icons=true&theme=dark)
 
 ## 📫 Como me encontrar
 - ✉️ Email: [felipepereiramiranda@hotmail.com](mailto:felipepereiramiranda@hotmail.com)
