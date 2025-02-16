@@ -39,8 +39,8 @@ Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos, ideias e col
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark)
 
 ## 📫 Como me encontrar
-- ✉️ Email: [seu-email@email.com](mailto:seu-email@email.com)
-- 🔗 LinkedIn: [seu-linkedin](https://linkedin.com/in/seu-usuario)
+- ✉️ Email: [seu-email@email.com](mailto:felipepereiramiranda@hotmail.com)
+- 🔗 LinkedIn: [seu-linkedin](https://linkedin.com/in/joaofelipepms)
 - 🌎 Portfólio: [seu-site.com](https://seu-site.com)
 
 Vamos conectar e construir algo incrível juntos! 🚀
